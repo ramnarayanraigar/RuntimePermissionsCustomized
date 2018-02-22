@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/kriscent/AndroidStudioProjects/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5b65ec1ebc84af3baecfd28954c9e7ff01b937a8">
+        <dex dex="/home/kriscent/AndroidStudioProjects/M Permissions/M Permissions/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-26.0.1_8a0e4e7e20a4abefcea9a7d9c7b89bd060dafbb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kriscent/AndroidStudioProjects/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/design/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c390af22079a61fdc42712c19f15a700f1fc2cbf">
+        <dex dex="/home/kriscent/AndroidStudioProjects/M Permissions/M Permissions/app/build/intermediates/pre-dexed/debug/com.android.support-design-26.0.1_05cdf1aeaa46e4224bd82a3dd01d61d9f4a16586.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kriscent/AndroidStudioProjects/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="681eeeaec5300e5257ad9bf889c3859ba3833d5a">
+        <dex dex="/home/kriscent/AndroidStudioProjects/M Permissions/M Permissions/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-26.0.1_779947d45e888ca17740ed77cdf8dee3fa3bc769.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kriscent/AndroidStudioProjects/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/kriscent/AndroidStudioProjects/M Permissions/M Permissions/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.0.1_6094886d2c68101246a34b9d977429eaa4a6cd67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kriscent/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations-java5/15.0/7011b4551a8451906759b05814c58b9eb829ea9b/annotations-java5-15.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7011b4551a8451906759b05814c58b9eb829ea9b">
+        <dex dex="/home/kriscent/AndroidStudioProjects/M Permissions/M Permissions/app/build/intermediates/pre-dexed/debug/annotations-java5-15.0_5bad42cfaa94b282ecf49f217c8c3c189e95daab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kriscent/AndroidStudioProjects/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="22c673e65215e0764add61e3102946de895439e4">
+        <dex dex="/home/kriscent/AndroidStudioProjects/M Permissions/M Permissions/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-26.0.1_217978513c44ef6c451c3cd1d4df44e445270ef9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kriscent/AndroidStudioProjects/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d095503f29a8dedc55b9326ed97a5902a1527ab9">
+        <dex dex="/home/kriscent/AndroidStudioProjects/M Permissions/M Permissions/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-26.0.1_170e03696a29d4efa2986150d9c9ccf66c426ee4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kriscent/AndroidStudioProjects/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/transition/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="56e96fa067ba358a6c60184e40947810dcd78f30">
+        <dex dex="/home/kriscent/AndroidStudioProjects/M Permissions/M Permissions/app/build/intermediates/pre-dexed/debug/com.android.support-transition-26.0.1_1a9d60f34032ef8c8e47415b8170eb59714ea6c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kriscent/AndroidStudioProjects/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e7424f816f538c2acfba6169b25e297ea22afbd8">
+        <dex dex="/home/kriscent/AndroidStudioProjects/M Permissions/M Permissions/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-26.0.1_4b7439a0cd634d44be2c0d9115fb7e9d31818c3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kriscent/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.1/e1bb32b12b25e2f78e6786059ca7ea878f8345e0/support-annotations-26.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e1bb32b12b25e2f78e6786059ca7ea878f8345e0">
+        <dex dex="/home/kriscent/AndroidStudioProjects/M Permissions/M Permissions/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.1_ab1f016ffb0fe4d57df58d5dbd96e30b289e7954.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kriscent/AndroidStudioProjects/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a4590fa7eadce322ca893129fdc999074e1aa5bf">
+        <dex dex="/home/kriscent/AndroidStudioProjects/M Permissions/M Permissions/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.0.1_ff1f55399911728dcf90018af12843a500a68662.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kriscent/AndroidStudioProjects/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="083e7bc5a9d9404b49b8f34e5091532361fa28e6">
+        <dex dex="/home/kriscent/AndroidStudioProjects/M Permissions/M Permissions/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-26.0.1_493224b0e3474ddd398afdf12e07fa8931fcf764.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kriscent/AndroidStudioProjects/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="71af915b7f4f7ec0b5f768b365145bb6a5cb9a66">
+        <dex dex="/home/kriscent/AndroidStudioProjects/M Permissions/M Permissions/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-26.0.1_f4dce0dbc3e2cccfc1b697d3ab40049c18bbb0a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kriscent/AndroidStudioProjects/M Permissions/M Permissions/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dff4d8f88fe2c0e57306e6981fd9b90caeead7e3">
+        <dex dex="/home/kriscent/AndroidStudioProjects/M Permissions/M Permissions/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-26.0.1_34b28ab90592a03b8baa16c625c68234040f094a.jar" />
+    </item>
+
+</items>

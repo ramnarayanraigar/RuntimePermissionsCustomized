@@ -1,0 +1,4 @@
+#Thu Feb 22 14:17:16 IST 2018
+base.0=/home/kriscent/AndroidStudioProjects/M Permissions/M Permissions/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/kriscent/AndroidStudioProjects/M Permissions/M Permissions/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
